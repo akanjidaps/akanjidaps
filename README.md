@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Dapo 👋</h1>
 <img align="right" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
-### AKANJI OLADAPO
+### <h1>AKANJI OLADAPO</h1>
 ### Frontend Developer
 
 <h3>I'm a frontend developer that is passionnate about tech in general ways in which it can help improve our lives. I am currently learning Javascript and open to incorporating new technologies in my work flow. </h3>
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="left"> <a href="https://twitter.com/oladaps_" target="blank"><img src="https://img.shields.io/twitter/follow/oladaps_?logo=twitter&style=for-the-badge" alt="oladaps_" /></a> </p>
+<!--<p align="left"> <a href="https://twitter.com/oladaps_" target="blank"><img src="https://img.shields.io/twitter/follow/oladaps_?logo=twitter&style=for-the-badge" alt="oladaps_" /></a> </p>-->
 
 <!--
 - 🌱 I’m currently learning **Javascript**
